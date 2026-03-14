@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/ivan/projects/NNC/build/_deps/sfml-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
