@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/main.dir/link.d"
+  "CMakeFiles/main.dir/src/Button.cpp.o"
+  "CMakeFiles/main.dir/src/Button.cpp.o.d"
+  "CMakeFiles/main.dir/src/Creature.cpp.o"
+  "CMakeFiles/main.dir/src/Creature.cpp.o.d"
+  "CMakeFiles/main.dir/src/CreatureEditorState.cpp.o"
+  "CMakeFiles/main.dir/src/CreatureEditorState.cpp.o.d"
+  "CMakeFiles/main.dir/src/Engine.cpp.o"
+  "CMakeFiles/main.dir/src/Engine.cpp.o.d"
+  "CMakeFiles/main.dir/src/GamingState.cpp.o"
+  "CMakeFiles/main.dir/src/GamingState.cpp.o.d"
+  "CMakeFiles/main.dir/src/Label.cpp.o"
+  "CMakeFiles/main.dir/src/Label.cpp.o.d"
+  "CMakeFiles/main.dir/src/MenuState.cpp.o"
+  "CMakeFiles/main.dir/src/MenuState.cpp.o.d"
+  "CMakeFiles/main.dir/src/NNConfigState.cpp.o"
+  "CMakeFiles/main.dir/src/NNConfigState.cpp.o.d"
+  "CMakeFiles/main.dir/src/NeuralNetwork.cpp.o"
+  "CMakeFiles/main.dir/src/NeuralNetwork.cpp.o.d"
+  "CMakeFiles/main.dir/src/Slider.cpp.o"
+  "CMakeFiles/main.dir/src/Slider.cpp.o.d"
+  "CMakeFiles/main.dir/src/State.cpp.o"
+  "CMakeFiles/main.dir/src/State.cpp.o.d"
+  "CMakeFiles/main.dir/src/StateStack.cpp.o"
+  "CMakeFiles/main.dir/src/StateStack.cpp.o.d"
+  "CMakeFiles/main.dir/src/Terrain.cpp.o"
+  "CMakeFiles/main.dir/src/Terrain.cpp.o.d"
+  "CMakeFiles/main.dir/src/TerrainEditorState.cpp.o"
+  "CMakeFiles/main.dir/src/TerrainEditorState.cpp.o.d"
+  "CMakeFiles/main.dir/src/Widget.cpp.o"
+  "CMakeFiles/main.dir/src/Widget.cpp.o.d"
+  "CMakeFiles/main.dir/src/main.cpp.o"
+  "CMakeFiles/main.dir/src/main.cpp.o.d"
+  "bin/main"
+  "bin/main.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/main.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
